@@ -9,6 +9,10 @@ Given a 1200 seconds moving robot video as training data, we build and train a m
 * Robot is represented by its centroid coordinates (a pair of x, y integers) 
 * We use gradient boosting regression method as our model. It takes current coordinates (x, y) and velocity from specified numbers of previous time frames as input features and outputs robot coordinates (x, y) for the next frame.
 
+## Requirements
+* python 2.7
+* numpy
+* scikit learn
 
 ## Results
 * Green: actual path
