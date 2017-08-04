@@ -11,5 +11,29 @@ Given a 1200 seconds moving robot video as training data, we build and train a m
 
 
 ## Results
-### Test 1
+* Green: actual path
+* Red: prediction path
+
+<table>
+<tr>
+<th><img src="https://github.com/vivianhylee/robot-path-prediction/blob/master/results/test01.gif" /><br> test01 </th>
+<th><img src="https://github.com/vivianhylee/robot-path-prediction/blob/master/results/test02.gif" /><br> test02 </th>
+<th><img src="https://github.com/vivianhylee/robot-path-prediction/blob/master/results/test03.gif" /><br> test03 </th>
+</tr>
+</table>
+<table>
+<tr>
+<th><img src="https://github.com/vivianhylee/robot-path-prediction/blob/master/results/test04.gif" /><br> test04 </th>
+<th><img src="https://github.com/vivianhylee/robot-path-prediction/blob/master/results/test05.gif" /><br> test05 </th>
+<th><img src="https://github.com/vivianhylee/robot-path-prediction/blob/master/results/test06.gif" /><br> test06 </th>
+</tr>
+</table>
+<table>
+<tr>
+<th><img src="https://github.com/vivianhylee/robot-path-prediction/blob/master/results/test07.gif" /><br> test07 </th>
+<th><img src="https://github.com/vivianhylee/robot-path-prediction/blob/master/results/test08.gif" /><br> test08 </th>
+<th><img src="https://github.com/vivianhylee/robot-path-prediction/blob/master/results/test09.gif" /><br> test09 </th>
+</tr>
+</table>
+
 
