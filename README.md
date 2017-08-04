@@ -1,5 +1,5 @@
 # Robot Path Prediction
-Predict HEXBUG Nano micro robot moving path in a wooden box with an obstacle path 
+Predict HEXBUG Nano micro robot moving path in a wooden box with an obstacle
 
 ## Goal
 Given a 1200 seconds moving robot video as training data, we build and train a model based on AI and machine learning method and use the model to predict moving robot trajectory in 10 different test scenario.
